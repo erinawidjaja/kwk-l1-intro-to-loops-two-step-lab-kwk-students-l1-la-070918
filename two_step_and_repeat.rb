@@ -25,7 +25,7 @@ steps = 0
 while steps < 10
 puts steps
 steps = steps + 1
-
+sleep(0.5)
 end
 
 def break_dance
