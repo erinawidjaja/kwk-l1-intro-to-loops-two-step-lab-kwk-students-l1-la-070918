@@ -22,7 +22,7 @@ a_few_more_steps
 
 def how_many_steps?
 steps = 0 
-while counter 
+while counter < 10
 end
 
 def break_dance
