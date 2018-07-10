@@ -23,6 +23,8 @@ a_few_more_steps
 def how_many_steps?
 steps = 0 
 while counter < 10
+puts counter
+
 end
 
 def break_dance
