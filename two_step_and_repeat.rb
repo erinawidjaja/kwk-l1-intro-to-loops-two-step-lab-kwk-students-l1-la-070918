@@ -8,6 +8,7 @@ sleep(0.5)
 puts "Stop"
 sleep(1)
 end
+first_steps
 
 def a_few_more_steps
   # Write a loop that outputs the first two sets of steps in the Two-Step
